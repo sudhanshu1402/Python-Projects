@@ -1,4 +1,7 @@
-# PYTHON PROGRAMMING
+# PYTHON PROJECTS
+
+This repository contains a collection of Python Projects
+
 - Black Jack Game
 - Circo
 - Color Detection
