@@ -1,1 +1,11 @@
-# Python_Programming
+# PYTHON PROGRAMMING
+- Black Jack Game
+- Circo
+- Color Detection
+- Count Down Timer
+- Fruit Ninja Game
+- Live Cricket Score
+- Music Player
+- Plagrism Checker
+- Qiuz 
+- Sudoko Game

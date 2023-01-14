@@ -1,0 +1,16 @@
+
+	"stationary_obstacles": [
+		{
+			"cylinder_height": 750,
+			"cylinder_radius": 33,
+			"latitude": 21.324898,
+			"longitude": 74.957593
+		},
+		{
+			"cylinder_height": 400,
+			"cylinder_radius": 33,
+			"latitude": 21.322820,
+			"longitude": 74.949160
+		}
+	]
+}
