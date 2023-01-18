@@ -2,13 +2,11 @@
 
 This repository contains a collection of Python Projects
 
-- Black Jack Game
+- 2048
+- BMI Calculator
 - Circo
 - Color Detection
 - Count Down Timer
+- Currency
 - Fruit Ninja Game
-- Live Cricket Score
-- Music Player
-- Plagrism Checker
-- Qiuz 
-- Sudoko Game
+- Gender & Age Detection
