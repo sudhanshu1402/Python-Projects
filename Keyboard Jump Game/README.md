@@ -4,4 +4,4 @@ The object of Keyboard Jump Game Python Project is to build a keyboard jump game
 In this project, the player has to press the same keys to the letters displayed on the game screen. If the player made an error while typing then the game gets over.
 
 ## OUTPUT: 
-- ![image](https://user-images.githubusercontent.com/99204211/214035097-4e1509cd-e121-4435-9392-bc8b6f3d8cdc.png)
+![image](https://user-images.githubusercontent.com/99204211/214035097-4e1509cd-e121-4435-9392-bc8b6f3d8cdc.png)
