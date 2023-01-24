@@ -10,3 +10,9 @@ This repository contains a collection of Python Projects
 - Currency
 - Fruit Ninja Game
 - Gender & Age Detection
+- Keyboard Jump Game
+- Ping Pong Game
+- Speed Typing Test
+- Sudoku
+- Tic Tac Toe
+- UNO
